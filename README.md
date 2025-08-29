@@ -1,1 +1,1 @@
-Selenium scripts for web testing
+Selenium scripts for web automation testing
